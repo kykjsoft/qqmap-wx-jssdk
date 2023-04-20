@@ -1,6 +1,6 @@
 {
   "name": "@kykjsoft/qqmap-wx-jssdk",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "腾讯地图-微信JS-SDK",
   "main": "qqmap-wx-jssdk.js",
   "types": "index.d.ts",
@@ -9,5 +9,8 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.0.4"
+  }
 }
