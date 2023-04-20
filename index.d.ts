@@ -1,0 +1,1 @@
+declare module '@kykjsoft/qqmap-wx-jssdk'
